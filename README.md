@@ -58,7 +58,7 @@ A smart cooking assistance project designed to help users with recipes, ingredie
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Add your LinkedIn profile link here](www.linkedin.com/in/tharun-sai25).
-* GitHub: [Add your GitHub profile link here](https://github.com/Tharunsaisiddha)
+* LinkedIn: [click here](https://www.linkedin.com/in/tharun-sai25/).
+* GitHub: [click here](https://github.com/Tharunsaisiddha)
 
 ⭐ Feel free to explore my repositories!
